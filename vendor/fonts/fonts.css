@@ -1,0 +1,17 @@
+/* roboto-regular - latin */
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/roboto-v27-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/roboto-v27-latin-regular.woff') format('woff'); /* Modern Browsers */
+  }
+
+  /* roboto-700 - latin */
+  @font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/roboto-v27-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/roboto-v27-latin-700.woff') format('woff'); /* Modern Browsers */
+  }
