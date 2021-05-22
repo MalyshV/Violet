@@ -1,4 +1,8 @@
 .header {
   min-height: 1053px;
   background-color: #E03FFF;
+  margin: 0;
+  padding: 0;
+  padding-top: 14px;
+
 }
