@@ -1,4 +1,18 @@
 .works {
   min-height: 3880px;
   background-color: #127B75;
+  text-align: center;
+  padding: 124px 50px 108px;
+}
+
+.works__title {
+  font-family: Roboto;
+  margin: 0;
+  padding: 0;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 82px;
+  line-height: 85px;
+  letter-spacing: 0.5px;
+  color: #E6DEE7;
 }

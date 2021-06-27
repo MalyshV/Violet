@@ -2,3 +2,17 @@
   padding: 0;
   margin: 0 auto;
 }
+
+.page__sircle_color_green {
+  height: 290px;
+  position: absolute;
+  right: 0;
+  bottom: 282px;
+  overflow: hidden;
+  z-index: 0;
+}
+
+/*.page__sircle_color_yellow {
+  height: 186px;
+  z-index: 0;
+}*/

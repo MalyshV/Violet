@@ -1,4 +1,14 @@
 .problem {
   min-height: 1053px;
   background-color: #C2AEE2;
+  position: relative;
+}
+
+.problem__image {
+  width: 943px;
+  height: 600px;
+  right: 0;
+  bottom: -70px;
+  position: absolute;
+  z-index: 1;
 }

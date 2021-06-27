@@ -1,4 +1,20 @@
 .matters {
   min-height: 840px;
   background-color: #F6B60D;
+  text-align: center;
+}
+
+.matters__titile {
+  color: #E6DEE7;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 120px;
+  line-height: 105px;
+  letter-spacing: 0.3px;
+  margin: 0;
+  padding: 0;
+  padding-top: 114px;
+  white-space: pre-line;
+  cursor: pointer;
 }
