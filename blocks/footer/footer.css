@@ -1,4 +1,88 @@
 .footer {
-  min-height: 654px;
   background-color: #E03FFF;
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  padding: 100px 50px 80px;
+  justify-content: space-between;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 23px;
+  line-height: 33px;
+  color: #E6DEE7;
+}
+
+.footer__column {
+  max-width: 315px;
+  width: 100%;
+}
+
+.footer__column:nth-of-type(2){
+  max-width: 257px;
+}
+
+.footer__column_type_width {
+  width: 460px;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer__logo {
+  width: 125px;
+  height: 40px;
+  margin-bottom: 172px;
+  align-self: flex-end;
+}
+
+.footer__image {
+  width: 415px;
+  height: 177px;
+}
+
+.footer__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 40px;
+}
+
+.bottom {
+  margin-bottom: 96px;
+}
+
+.footer__list-title {
+  margin: 0;
+  padding: 0;
+  font-size: 23px;
+  line-height: 33px;
+  margin-bottom: 10px;
+}
+
+.footer__list-item {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing: 0.3px;
+}
+
+.footer__list-item_type_text {
+  font-size: 15px;
+  line-height: 25px;
+  letter-spacing: 0.3px;
+}
+
+.footer__list-item_type_text:nth-of-type(3) {
+  margin-top: 54px;
+  margin-bottom: 22px;
+}
+
+.small {
+  font-size: 14px;
+  line-height: 15px;
+}
+
+.footer__in-logo {
+  margin-top: 5px;
 }
